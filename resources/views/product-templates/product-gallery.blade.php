@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/559b11c95037941ee5e7f04f30057c0b_1606232862.png') }}" class="w-100">
